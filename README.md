@@ -150,4 +150,4 @@ https://github.com/axboot/ax-boot-themes
  
 ## Developers
 - Brant Hwang (brant@chequer.io)
-- Thomas Jang (tom@axisj.com)# AXBoot_GSM
+- Thomas Jang (tom@axisj.com)
